@@ -1,0 +1,11 @@
+numpy==2.5.4
+pandas==3.1.1
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+jupyter==1.1.1
+notebook==7.6.5
+nbconvert==7.17.2
+ipykernel==7.4.0
+python-docx==1.2.0

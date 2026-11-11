@@ -1,0 +1,10 @@
+seed,subset,n_samples,percent_of_full,n_malignant,n_benign
+42,train,398,69.95,149,249
+42,validation,57,10.02,21,36
+42,test,114,20.04,42,72
+52,train,398,69.95,149,249
+52,validation,57,10.02,21,36
+52,test,114,20.04,42,72
+62,train,398,69.95,149,249
+62,validation,57,10.02,21,36
+62,test,114,20.04,42,72

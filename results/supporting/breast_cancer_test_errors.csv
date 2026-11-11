@@ -1,0 +1,4 @@
+,actual,predicted,P(malignant),P(benign)
+41,malignant,benign,0.4286,0.5714
+73,malignant,benign,0.1429,0.8571
+205,malignant,benign,0.1429,0.8571

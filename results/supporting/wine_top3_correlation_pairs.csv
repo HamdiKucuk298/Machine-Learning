@@ -1,0 +1,4 @@
+feature_1,feature_2,pearson_r,abs_r
+total_phenols,flavanoids,0.8645635000951147,0.8645635000951147
+flavanoids,od280/od315_of_diluted_wines,0.787193901866951,0.787193901866951
+total_phenols,od280/od315_of_diluted_wines,0.6999493647911861,0.6999493647911861

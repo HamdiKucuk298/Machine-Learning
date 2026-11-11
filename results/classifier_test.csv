@@ -1,0 +1,3 @@
+dataset,selected_config,evaluation_seed,val_f1_macro_mean,val_f1_macro_std,test_accuracy,test_precision_macro,test_recall_macro,test_f1_macro,test_roc_auc
+breast_cancer,knn_scaled_k7,42,0.9676749826749828,0.029718024557980914,0.9736842105263158,0.98,0.9642857142857143,0.9712773998488284,0.9887566137566137
+wine,knn_scaled_k11,42,0.9813519813519814,0.032299315758860164,1.0,1.0,1.0,1.0,1.0
